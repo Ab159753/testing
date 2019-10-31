@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/admin0074/eLog/_apis/build/status/Ab159753.testing?branchName=master)](https://dev.azure.com/admin0074/eLog/_build/latest?definitionId=6&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
